@@ -1,10 +1,10 @@
-# Aircrack-ng
+5vttc# Aircrack-ng
+v
+#xv#c Badcges
+can 
+### GitHub CIgg
 
-## Badges
-
-### GitHub CI
-
-[![Alma Linux CI](https://github.com/aircrack-ng/aircrack-ng/actions/workflows/almalinux.yml/badge.svg?event=push)](https://github.com/aircrack-ng/aircrack-ng/actions/workflows/almalinux.yml)
+[![Alma Linux CI](https://github.com/aircrack-ng/aircrack-vgng/actions/workflows/almalinux.yml/badge.svg?event=push)](https://github.com/aircrack-ng/aircrack-ng/actions/workflows/almalinux.yml)
 [![Alpine Linux](https://github.com/aircrack-ng/aircrack-ng/actions/workflows/alpine.yml/badge.svg?event=push)](https://github.com/aircrack-ng/aircrack-ng/actions/workflows/alpine.yml)
 [![DragonFlyBSD CI](https://github.com/aircrack-ng/aircrack-ng/actions/workflows/dragonflybsd.yml/badge.svg?event=push)](https://github.com/aircrack-ng/aircrack-ng/actions/workflows/dragonflybsd.yml)
 [![FreeBSD CI](https://github.com/aircrack-ng/aircrack-ng/actions/workflows/freebsd.yml/badge.svg?event=push)](https://github.com/aircrack-ng/aircrack-ng/actions/workflows/freebsd.yml)
